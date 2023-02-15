@@ -5,7 +5,7 @@
 
 *Développeur web junior, en formation "Développement Web et Accessibilité"*
 
-Accueil - [Projets](Projets.md) - [CV]() - [Contact]()
+Accueil - [Projets](Projets.md) - [CV](CV.md) - [Contact](Contact.md)
 
 ## Présentation
 
@@ -16,4 +16,4 @@ Aute sint veniam nostrud deserunt aute exercitation ipsum ea exercitation irure 
 
 ---
 
-© 2023 - **John Doe** - [Me contacter]()
+© 2023 - **John Doe** - [Me contacter](Contact.md)

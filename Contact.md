@@ -11,4 +11,13 @@
 Une question ? Une idée ? Une proposition ?
 **Contactez-moi !**
 
-> john.doe@gmail.com
+> ✉ john.doe@gmail.com
+> 📞 +33(0)7 08 09 10 11
+> 👨‍💻 [Linkedin](https://fr.linkedin.com/)
+> 🐦 [Twitter](https://twitter.com/home)
+
+A bientôt !
+
+---
+
+© 2023 - **John Doe** - [Me contacter](Contact.md)
